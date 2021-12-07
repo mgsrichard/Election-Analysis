@@ -1,9 +1,9 @@
 # Colorado Board of Elections Audit Results and Analysis
-## A Colorado Board of Elections employee has given us the following tasks to complete for the election audit of a recent local congressional election. 
+## A Colorado Board of Elections employee has given us the following tasks to complete for the election audit of a recent local congressional election:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
-3. Calculate the total numner of votes each candidate received.
+3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
@@ -45,7 +45,7 @@ The analysis of the results show that:
     - Raymon Anthony Doane: 11,606 votes,3.1% 
  - Winner
     - The winner of the election was Diana Degette
-    - Diana Degette received 272,892 votes, or 72.8% of the votes cast
+    - Diana Degette received 272,892 votes, or 73.8% of the votes cast
    
 #### Screenshot of Terminal/Screen Ouput
 
