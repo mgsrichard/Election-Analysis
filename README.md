@@ -1,5 +1,4 @@
-# Election-Analysis
-
+# Colorado Board of Elections Audit Results and Analysis
 ## A Colorado Board of Elections employee has given us the following tasks to complete for the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes cast.
