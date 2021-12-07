@@ -25,7 +25,7 @@ The analysis of the results show that:
   
  ## Challenge Overview
  
- Tom, our client from the Colorado Board of Elections, has asked us to provide some more data afor their audit.  In addition to what we have already provided, they would like us to also calculate:
+ Tom, our client from the Colorado Board of Elections, has asked us to provide some more data for their audit.  In addition to what we have already provided, they would like us to also calculate:
  - The voter turnout for each county
  - The percentage of votes from each county out of the total count
  - The county with the highest turnout 
@@ -56,4 +56,4 @@ The analysis of the results show that:
 ![Text file output](https://github.com/mgsrichard/Election-Analysis/blob/main/Election_Analysis_Textfile_Output.png)
 ### Election Audit Summary
 
-Please contact us the next time you are in need of any election audit analysis! The code we developed here can be easily adapted to analyze the outcome of any election.  For local elections, the breakdowns by county could be replaced by voting precinct or county district breakdowns.  For a statewide election, the results could be analyzed based on a county by county basis or even on a regional analysis, defining the state regions in cooperation with you. For primary elections, we could present the results of both party primaries (if both happen in the same year) and show how turnout differs by party and location (whether by county or district, as long as that location data is provided.)
+Please contact us the next time you are in need of any election audit analysis! The code we developed here can be easily adapted to analyze the outcome of any election.  For local elections, the breakdowns by county could be replaced by voting precinct or county district breakdowns.  For a statewide election, the results could be analyzed on a county by county basis or even on a regional analysis, defining the state regions in cooperation with you. For primary elections, we could present the results of both party primaries (if both happen in the same year) and show how turnout differs by party and location (whether by county or district, as long as that location data is provided.)
